@@ -3,10 +3,6 @@
 > **Production-Ready Quantitative Password Security Analyzer**  
 > Advanced credential strength evaluation aligned with NIST SP 800-63B and OWASP Authentication best practices.
 
->![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  ![License](https://img.shields.io/badge/License-MIT-green)  ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow)
-
----
-
 ## Overview
 
 **KeyFortify** is a security-focused Python application designed to provide measurable, audit-ready password strength analysis using real-world attack modeling.
@@ -21,8 +17,6 @@ Unlike common password checkers that provide superficial scores, KeyFortify perf
 
 This project demonstrates applied cryptography, secure software engineering, performance modeling, and production-grade Python packaging.
 
----
-
 ## Problem Statement
 
 In modern cybersecurity environments:
@@ -34,8 +28,6 @@ In modern cybersecurity environments:
 - Compliance frameworks require audit evidence  
 
 KeyFortify addresses these gaps using reproducible, data-driven analysis.
-
----
 
 ## Core Architecture
 
@@ -70,8 +62,6 @@ Benchmarked against modern hashing standards:
 - scrypt  
 - PBKDF2  
 
----
-
 ##  Privacy-Preserving Breach Detection
 
 Implements k-anonymity model:
@@ -84,8 +74,6 @@ Implements k-anonymity model:
  ✅ Zero exposure of full password  
  ✅ Zero exposure of full hash  
  ✅ Secure-by-design implementation  
-
----
 
 ##  Engineering Highlights
 
@@ -100,8 +88,6 @@ This repository demonstrates:
 - Defensive programming  
 - Extensible system design  
 
----
-
 ##  Installation
 
 ```bash
@@ -112,8 +98,6 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 pip install -e .
 ```
-
----
 
 ##  Usage Example
 
@@ -131,8 +115,6 @@ Output includes:
 - Crack time per threat model  
 - Optional breach detection indicator  
 
----
-
 ##  Feature Set
 
 - Entropy analysis (heuristic + deterministic)
@@ -145,8 +127,6 @@ Output includes:
   - CSV
 - CLI interface
 - Extensible architecture
-
----
 
 ##  Tech Stack
 
@@ -161,8 +141,6 @@ Output includes:
 - Hatch build system
 - pyproject.toml packaging standard
 
----
-
 ##  Security & Compliance Alignment
 
 Aligned with:
@@ -171,8 +149,6 @@ Aligned with:
 - OWASP Authentication Cheat Sheet  
 - Secure password storage best practices  
 - Privacy-by-design principles  
-
----
 
 ##  Roadmap
 
@@ -184,8 +160,6 @@ Aligned with:
 - CI/CD integration
 - Docker containerization
 
----
-
 ##  Real-World Applications
 
 - Security engineering teams
@@ -194,8 +168,6 @@ Aligned with:
 - Compliance audit preparation
 - Security research
 - Password policy validation
-
----
 
 ##  Skills Demonstrated (ATS Optimized Keywords)
 
@@ -214,14 +186,10 @@ Aligned with:
 - Modular Code Design  
 - Production Packaging  
 
----
-
 ##  Author
 
 Jonas Pinto  
-Software Engineering Student  
-Cybersecurity & Applied Cryptography Focus  
-
+Software Engineering 
 ---
 
 ##  License
